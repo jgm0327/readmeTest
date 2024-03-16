@@ -1,4 +1,4 @@
-# Classmoa
+# Classmoa (2023-09-01~2023-11-09)
 
 <p align="center">
   <br>
