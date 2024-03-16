@@ -65,7 +65,7 @@ AWS OpenSearch를 이용하여 자동 완성을 할 수 있도록 함.
 - Redux를 이용하여 상태를 공유하지 않고 props으로 전달을 하여 코드가 복잡하게 느껴지는 것 같음.
 - OpenSearch와 직접 통신하여 보안적으로 취약한 부분이 있음.
 - localStorage에 대한 사용이 너무 많음.
-- component에 대한 이해 부족하여 코드가 난잡한 느낌이 듬
+- component에 대한 이해 부족하여 코드가 난잡한 느낌이 듦
 
 <br>
 
