@@ -47,12 +47,12 @@ AWS OpenSearch를 이용하여 자동 완성을 할 수 있도록 함.
 
 ### 기능 4 - 댓글
 사람들이 강의에 대한 의견을 댓글로 작성하여 공유할 수 있음.
-<img src="https://github.com/jgm0327/baekjoon/assets/100139942/a8cf555d-9a84-4826-97c8-fe0aea4e2ec7">
+<img src="https://github.com/jgm0327/readmeTest/assets/100139942/64200864-8a37-40e9-8521-98ea8f9c648f">
 
 
 ### 기능 4 - 마이 페이지
 마이페이지에서 관심 강의 등록 및 알림 등록을 한 강의들을 한눈에 볼 수 있음.
-<img src="https://github.com/jgm0327/baekjoon/assets/100139942/6d0a7a50-1372-4ae7-a075-cbb24934820e">
+<img src="https://github.com/jgm0327/readmeTest/assets/100139942/ceea6f09-d25b-4bb2-91de-3faa33f5e262">
 
 <br>
 
@@ -65,7 +65,7 @@ AWS OpenSearch를 이용하여 자동 완성을 할 수 있도록 함.
 - Redux를 이용하여 상태를 공유하지 않고 props으로 전달을 하여 코드가 복잡하게 느껴지는 것 같음.
 - OpenSearch와 직접 통신하여 보안적으로 취약한 부분이 있음.
 - localStorage에 대한 사용이 너무 많음.
-- component에 대한 이해 부족하여 코드가 난잡한 느낌이 듦
+- component에 대한 이해 부족하여 코드가 난잡한 느낌이 듬
 
 <br>
 
