@@ -50,7 +50,7 @@ AWS OpenSearch를 이용하여 자동 완성을 할 수 있도록 함.
 <img src="https://github.com/jgm0327/readmeTest/assets/100139942/64200864-8a37-40e9-8521-98ea8f9c648f">
 
 
-### 기능 4 - 마이 페이지
+### 기능 5 - 마이 페이지
 마이페이지에서 관심 강의 등록 및 알림 등록을 한 강의들을 한눈에 볼 수 있음.
 <img src="https://github.com/jgm0327/readmeTest/assets/100139942/0a6d7968-29b8-495d-a326-b3385217fd90">
 
